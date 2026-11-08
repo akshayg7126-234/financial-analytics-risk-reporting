@@ -1,0 +1,27 @@
+// Qlik Sense load script (UNTESTED here - Qlik Sense is not available in this environment).
+// Create an app > Data load editor > paste this. Upload the four CSVs from /data to a data connection named DataFiles first.
+LIB CONNECT TO 'DataFiles';
+
+GL:
+LOAD period, account, category, actual, budget,
+     MonthStart(Date#(period & '-01','YYYY-MM-DD')) as Month
+FROM [lib://DataFiles/gl_monthly.csv] (txt, utf8, embedded labels, delimiter is ',');
+
+Portfolio:
+LOAD period, originations, gross_receivable, interest_income, charge_offs, yield_annual
+FROM [lib://DataFiles/portfolio_monthly.csv] (txt, utf8, embedded labels, delimiter is ',');
+
+Loans:
+LOAD loan_id, issue_month, loan_amnt, grade, int_rate, fico, dti, purpose, term, default_flag,
+     score, risk_band
+FROM [lib://DataFiles/loans_scored.csv] (txt, utf8, embedded labels, delimiter is ',');
+
+// ---- Master measures to create in the Master items panel ----
+// Revenue            : Sum({<category={'Revenue'}>} actual)
+// Total costs        : Sum({<category-={'Revenue'}>} actual)
+// Net income (25% tax): (Sum({<category={'Revenue'}>} actual) - Sum({<category-={'Revenue'}>} actual)) * 0.75
+// Budget variance (fav+) revenue: Sum({<category={'Revenue'}>} actual) - Sum({<category={'Revenue'}>} budget)
+// Default rate       : Sum(default_flag) / Count(loan_id)
+// Exposure           : Sum(loan_amnt)
+// Sheets: 1) Overview KPIs + line chart (Month)  2) Budget vs Actual bar by account  3) Credit risk: default rate by risk_band and grade
+// Filters: Month, grade, purpose (filter panes). Compare against outputs/Financial_Risk_Dashboard.html to check numbers.
