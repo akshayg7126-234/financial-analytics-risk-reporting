@@ -1,0 +1,199 @@
+period,grp,line,amount
+2025-01,Assets,Cash,24321532.64
+2025-01,Assets,Loans receivable (gross),98710294.44
+2025-01,Assets,Allowance for credit losses,-4441963.25
+2025-01,Assets,Fixed assets (net),982000.0
+2025-01,Liabilities,Borrowings,78968235.56
+2025-01,Liabilities,Accounts payable,342355.21
+2025-01,Liabilities,Accrued expenses,153465.67
+2025-01,Equity,Share capital,40000000.0
+2025-01,Equity,Retained earnings,107807.4
+2025-02,Assets,Cash,23101609.02
+2025-02,Assets,Loans receivable (gross),105537069.44
+2025-02,Assets,Allowance for credit losses,-4749168.12
+2025-02,Assets,Fixed assets (net),963880.0
+2025-02,Liabilities,Borrowings,84429655.56
+2025-02,Liabilities,Accounts payable,372209.98
+2025-02,Liabilities,Accrued expenses,156914.11
+2025-02,Equity,Share capital,40000000.0
+2025-02,Equity,Retained earnings,-105389.31
+2025-03,Assets,Cash,22001170.33
+2025-03,Assets,Loans receivable (gross),112421858.33
+2025-03,Assets,Allowance for credit losses,-5058983.62
+2025-03,Assets,Fixed assets (net),945640.0
+2025-03,Liabilities,Borrowings,89937486.67
+2025-03,Liabilities,Accounts payable,394454.25
+2025-03,Liabilities,Accrued expenses,157181.55
+2025-03,Equity,Share capital,40000000.0
+2025-03,Equity,Retained earnings,-179437.43
+2025-04,Assets,Cash,21035513.05
+2025-04,Assets,Loans receivable (gross),118661694.44
+2025-04,Assets,Allowance for credit losses,-5339776.25
+2025-04,Assets,Fixed assets (net),927280.0
+2025-04,Liabilities,Borrowings,94929355.56
+2025-04,Liabilities,Accounts payable,349946.82
+2025-04,Liabilities,Accrued expenses,155386.08
+2025-04,Equity,Share capital,40000000.0
+2025-04,Equity,Retained earnings,-149977.21
+2025-05,Assets,Cash,20041365.38
+2025-05,Assets,Loans receivable (gross),124970843.06
+2025-05,Assets,Allowance for credit losses,-5623687.94
+2025-05,Assets,Fixed assets (net),908800.0
+2025-05,Liabilities,Borrowings,99976674.44
+2025-05,Liabilities,Accounts payable,397197.35
+2025-05,Liabilities,Accrued expenses,156919.26
+2025-05,Equity,Share capital,40000000.0
+2025-05,Equity,Retained earnings,-233470.56
+2025-06,Assets,Cash,19327809.9
+2025-06,Assets,Loans receivable (gross),130365152.78
+2025-06,Assets,Allowance for credit losses,-5866431.88
+2025-06,Assets,Fixed assets (net),890200.0
+2025-06,Liabilities,Borrowings,104292122.22
+2025-06,Liabilities,Accounts payable,364686.54
+2025-06,Liabilities,Accrued expenses,160323.2
+2025-06,Equity,Share capital,40000000.0
+2025-06,Equity,Retained earnings,-100401.16
+2025-07,Assets,Cash,18360326.34
+2025-07,Assets,Loans receivable (gross),136560591.67
+2025-07,Assets,Allowance for credit losses,-6145226.63
+2025-07,Assets,Fixed assets (net),871480.0
+2025-07,Liabilities,Borrowings,109248473.33
+2025-07,Liabilities,Accounts payable,373633.32
+2025-07,Liabilities,Accrued expenses,160274.07
+2025-07,Equity,Share capital,40000000.0
+2025-07,Equity,Retained earnings,-135209.35
+2025-08,Assets,Cash,17569348.34
+2025-08,Assets,Loans receivable (gross),141910598.61
+2025-08,Assets,Allowance for credit losses,-6385976.94
+2025-08,Assets,Fixed assets (net),852640.0
+2025-08,Liabilities,Borrowings,113528478.89
+2025-08,Liabilities,Accounts payable,372538.13
+2025-08,Liabilities,Accrued expenses,159830.19
+2025-08,Equity,Share capital,40000000.0
+2025-08,Equity,Retained earnings,-114237.2
+2025-09,Assets,Cash,16743265.85
+2025-09,Assets,Loans receivable (gross),147471995.83
+2025-09,Assets,Allowance for credit losses,-6636239.81
+2025-09,Assets,Fixed assets (net),833680.0
+2025-09,Liabilities,Borrowings,117977596.67
+2025-09,Liabilities,Accounts payable,362415.97
+2025-09,Liabilities,Accrued expenses,162480.01
+2025-09,Equity,Share capital,40000000.0
+2025-09,Equity,Retained earnings,-89790.78
+2025-10,Assets,Cash,16114725.72
+2025-10,Assets,Loans receivable (gross),152356255.56
+2025-10,Assets,Allowance for credit losses,-6856031.5
+2025-10,Assets,Fixed assets (net),814600.0
+2025-10,Liabilities,Borrowings,121885004.44
+2025-10,Liabilities,Accounts payable,353174.26
+2025-10,Liabilities,Accrued expenses,164150.59
+2025-10,Equity,Share capital,40000000.0
+2025-10,Equity,Retained earnings,27220.49
+2025-11,Assets,Cash,15504302.7
+2025-11,Assets,Loans receivable (gross),157622947.22
+2025-11,Assets,Allowance for credit losses,-7093032.63
+2025-11,Assets,Fixed assets (net),795400.0
+2025-11,Liabilities,Borrowings,126098357.78
+2025-11,Liabilities,Accounts payable,411894.88
+2025-11,Liabilities,Accrued expenses,160495.17
+2025-11,Equity,Share capital,40000000.0
+2025-11,Equity,Retained earnings,158869.46
+2025-12,Assets,Cash,14876769.33
+2025-12,Assets,Loans receivable (gross),162325143.06
+2025-12,Assets,Allowance for credit losses,-7304631.44
+2025-12,Assets,Fixed assets (net),776080.0
+2025-12,Liabilities,Borrowings,129860114.44
+2025-12,Liabilities,Accounts payable,392032.36
+2025-12,Liabilities,Accrued expenses,166812.49
+2025-12,Equity,Share capital,40000000.0
+2025-12,Equity,Retained earnings,254401.65
+2026-01,Assets,Cash,14338748.43
+2026-01,Assets,Loans receivable (gross),167318804.17
+2026-01,Assets,Allowance for credit losses,-7529346.19
+2026-01,Assets,Fixed assets (net),756640.0
+2026-01,Liabilities,Borrowings,133855043.33
+2026-01,Liabilities,Accounts payable,397295.59
+2026-01,Liabilities,Accrued expenses,165076.44
+2026-01,Equity,Share capital,40000000.0
+2026-01,Equity,Retained earnings,467431.05
+2026-02,Assets,Cash,13780425.18
+2026-02,Assets,Loans receivable (gross),171916161.11
+2026-02,Assets,Allowance for credit losses,-7736227.25
+2026-02,Assets,Fixed assets (net),737080.0
+2026-02,Liabilities,Borrowings,137532928.89
+2026-02,Liabilities,Accounts payable,413542.74
+2026-02,Liabilities,Accrued expenses,167749.79
+2026-02,Equity,Share capital,40000000.0
+2026-02,Equity,Retained earnings,583217.63
+2026-03,Assets,Cash,13276922.1
+2026-03,Assets,Loans receivable (gross),176585663.89
+2026-03,Assets,Allowance for credit losses,-7946354.88
+2026-03,Assets,Fixed assets (net),717400.0
+2026-03,Liabilities,Borrowings,141268531.11
+2026-03,Liabilities,Accounts payable,404306.33
+2026-03,Liabilities,Accrued expenses,168435.0
+2026-03,Equity,Share capital,40000000.0
+2026-03,Equity,Retained earnings,792358.67
+2026-04,Assets,Cash,12815607.59
+2026-04,Assets,Loans receivable (gross),180516895.83
+2026-04,Assets,Allowance for credit losses,-8123260.31
+2026-04,Assets,Fixed assets (net),697600.0
+2026-04,Liabilities,Borrowings,144413516.67
+2026-04,Liabilities,Accounts payable,367795.94
+2026-04,Liabilities,Accrued expenses,171381.56
+2026-04,Equity,Share capital,40000000.0
+2026-04,Equity,Retained earnings,954148.95
+2026-05,Assets,Cash,12497621.78
+2026-05,Assets,Loans receivable (gross),184829576.39
+2026-05,Assets,Allowance for credit losses,-8317330.94
+2026-05,Assets,Fixed assets (net),677680.0
+2026-05,Liabilities,Borrowings,147863661.11
+2026-05,Liabilities,Accounts payable,403344.84
+2026-05,Liabilities,Accrued expenses,169201.41
+2026-05,Equity,Share capital,40000000.0
+2026-05,Equity,Retained earnings,1251339.88
+2026-06,Assets,Cash,12185443.7
+2026-06,Assets,Loans receivable (gross),188896444.44
+2026-06,Assets,Allowance for credit losses,-8500340.0
+2026-06,Assets,Fixed assets (net),657640.0
+2026-06,Liabilities,Borrowings,151117155.56
+2026-06,Liabilities,Accounts payable,420649.55
+2026-06,Liabilities,Accrued expenses,167102.8
+2026-06,Equity,Share capital,40000000.0
+2026-06,Equity,Retained earnings,1534280.24
+2026-07,Assets,Cash,11668418.53
+2026-07,Assets,Loans receivable (gross),193358068.06
+2026-07,Assets,Allowance for credit losses,-8701113.06
+2026-07,Assets,Fixed assets (net),637480.0
+2026-07,Liabilities,Borrowings,154686454.44
+2026-07,Liabilities,Accounts payable,443670.52
+2026-07,Liabilities,Accrued expenses,169386.99
+2026-07,Equity,Share capital,40000000.0
+2026-07,Equity,Retained earnings,1663341.56
+2026-08,Assets,Cash,11419518.58
+2026-08,Assets,Loans receivable (gross),196821977.78
+2026-08,Assets,Allowance for credit losses,-8856989.0
+2026-08,Assets,Fixed assets (net),617200.0
+2026-08,Liabilities,Borrowings,157457582.22
+2026-08,Liabilities,Accounts payable,412423.22
+2026-08,Liabilities,Accrued expenses,169877.76
+2026-08,Equity,Share capital,40000000.0
+2026-08,Equity,Retained earnings,1961824.16
+2026-09,Assets,Cash,11270563.3
+2026-09,Assets,Loans receivable (gross),200085422.22
+2026-09,Assets,Allowance for credit losses,-9003844.0
+2026-09,Assets,Fixed assets (net),596800.0
+2026-09,Liabilities,Borrowings,160068337.78
+2026-09,Liabilities,Accounts payable,431701.0
+2026-09,Liabilities,Accrued expenses,172190.14
+2026-09,Equity,Share capital,40000000.0
+2026-09,Equity,Retained earnings,2276712.61
+2026-10,Assets,Cash,11194417.1
+2026-10,Assets,Loans receivable (gross),202971725.0
+2026-10,Assets,Allowance for credit losses,-9133727.62
+2026-10,Assets,Fixed assets (net),576280.0
+2026-10,Liabilities,Borrowings,162377380.0
+2026-10,Liabilities,Accounts payable,440123.91
+2026-10,Liabilities,Accrued expenses,175907.25
+2026-10,Equity,Share capital,40000000.0
+2026-10,Equity,Retained earnings,2615283.31

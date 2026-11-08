@@ -1,0 +1,221 @@
+period,account,category,actual,budget
+2025-01,Interest income,Revenue,1261188.39,1138397.04
+2025-02,Interest income,Revenue,1347215.78,1229257.31
+2025-03,Interest income,Revenue,1439610.61,1320946.8
+2025-04,Interest income,Revenue,1518778.72,1403563.16
+2025-05,Interest income,Revenue,1599450.77,1483916.48
+2025-06,Interest income,Revenue,1663851.46,1549043.77
+2025-07,Interest income,Revenue,1740875.77,1618529.66
+2025-08,Interest income,Revenue,1809342.31,1672656.55
+2025-09,Interest income,Revenue,1884051.97,1724438.03
+2025-10,Interest income,Revenue,1947594.87,1764632.31
+2025-11,Interest income,Revenue,2018011.5,1807268.67
+2025-12,Interest income,Revenue,2077543.73,1843467.36
+2026-01,Interest income,Revenue,2139916.2,1885161.13
+2026-02,Interest income,Revenue,2202474.04,1926559.89
+2026-03,Interest income,Revenue,2261751.91,1974550.07
+2026-04,Interest income,Revenue,2312646.56,2021046.62
+2026-05,Interest income,Revenue,2368807.89,2078783.12
+2026-06,Interest income,Revenue,2417837.98,2140124.22
+2026-07,Interest income,Revenue,2475447.35,2210965.13
+2026-08,Interest income,Revenue,2517759.79,2273355.93
+2026-09,Interest income,Revenue,2562771.55,2333822.17
+2026-10,Interest income,Revenue,2599472.6,2387652.79
+2025-01,Fee income,Revenue,338117.5,325500.0
+2025-02,Fee income,Revenue,352362.5,328755.0
+2025-03,Fee income,Revenue,357726.25,332010.0
+2025-04,Fee income,Revenue,343035.0,335265.0
+2025-05,Fee income,Revenue,359196.25,338520.0
+2025-06,Fee income,Revenue,328466.25,341775.0
+2025-07,Fee income,Revenue,373546.25,345030.0
+2025-08,Fee income,Revenue,352275.0,348285.0
+2025-09,Fee income,Revenue,369810.0,351540.0
+2025-10,Fee income,Revenue,352572.5,354795.0
+2025-11,Fee income,Revenue,373065.0,358050.0
+2025-12,Fee income,Revenue,365811.25,361305.0
+2026-01,Fee income,Revenue,380423.75,364560.0
+2026-02,Fee income,Revenue,380992.5,367815.0
+2026-03,Fee income,Revenue,389742.5,371070.0
+2026-04,Fee income,Revenue,378070.0,374325.0
+2026-05,Fee income,Revenue,393881.25,377580.0
+2026-06,Fee income,Revenue,395920.0,380835.0
+2026-07,Fee income,Revenue,426387.5,384090.0
+2026-08,Fee income,Revenue,395850.0,387345.0
+2026-09,Fee income,Revenue,397582.5,390600.0
+2026-10,Fee income,Revenue,393093.75,393855.0
+2025-01,Interest expense,Cost of funds,447486.67,427810.42
+2025-02,Interest expense,Cost of funds,478434.71,461955.77
+2025-03,Interest expense,Cost of funds,509645.76,496412.75
+2025-04,Interest expense,Cost of funds,537933.01,527460.03
+2025-05,Interest expense,Cost of funds,566534.49,557656.87
+2025-06,Interest expense,Cost of funds,590988.69,582131.75
+2025-07,Interest expense,Cost of funds,619074.68,608244.6
+2025-08,Interest expense,Cost of funds,643328.05,628585.52
+2025-09,Interest expense,Cost of funds,668539.71,648045.04
+2025-10,Interest expense,Cost of funds,690681.69,663150.08
+2025-11,Interest expense,Cost of funds,714557.36,679172.85
+2025-12,Interest expense,Cost of funds,735873.98,692776.35
+2026-01,Interest expense,Cost of funds,758511.91,708444.9
+2026-02,Interest expense,Cost of funds,779353.26,724002.58
+2026-03,Interest expense,Cost of funds,800521.68,742037.32
+2026-04,Interest expense,Cost of funds,818343.26,759510.76
+2026-05,Interest expense,Cost of funds,837894.08,781208.18
+2026-06,Interest expense,Cost of funds,856330.55,804260.2
+2026-07,Interest expense,Cost of funds,876556.58,830882.27
+2026-08,Interest expense,Cost of funds,892259.63,854328.78
+2026-09,Interest expense,Cost of funds,907053.91,877052.03
+2026-10,Interest expense,Cost of funds,920138.49,897281.62
+2025-01,Credit loss provision,Credit costs,260750.0,408364.49
+2025-02,Credit loss provision,Credit costs,717890.99,440957.78
+2025-03,Credit loss provision,Credit costs,573536.33,473848.53
+2025-04,Credit loss provision,Credit costs,524638.46,503484.58
+2025-05,Credit loss provision,Credit costs,687788.08,532308.83
+2025-06,Credit loss provision,Credit costs,437449.49,555671.22
+2025-07,Credit loss provision,Credit costs,745341.97,580597.12
+2025-08,Credit loss provision,Credit costs,695894.76,600013.45
+2025-09,Credit loss provision,Credit costs,764122.6,618588.45
+2025-10,Credit loss provision,Credit costs,671673.63,633006.89
+2025-11,Credit loss provision,Credit costs,661135.85,648301.36
+2025-12,Credit loss provision,Credit costs,749568.26,661286.51
+2026-01,Credit loss provision,Credit costs,644756.42,676242.85
+2026-02,Credit loss provision,Credit costs,793179.67,691093.37
+2026-03,Credit loss provision,Credit costs,724338.74,708308.35
+2026-04,Credit loss provision,Credit costs,843427.66,724987.54
+2026-05,Credit loss provision,Credit costs,680056.74,745698.71
+2026-06,Credit loss provision,Credit costs,716539.62,767702.92
+2026-07,Credit loss provision,Credit costs,959295.28,793114.9
+2026-08,Credit loss provision,Credit costs,763089.83,815495.65
+2026-09,Credit loss provision,Credit costs,747000.83,837186.03
+2026-10,Credit loss provision,Credit costs,717639.18,856496.09
+2025-01,Salaries,Operating expense,306931.34,310000.0
+2025-02,Salaries,Operating expense,313828.22,311550.0
+2025-03,Salaries,Operating expense,314363.1,313100.0
+2025-04,Salaries,Operating expense,310772.15,314650.0
+2025-05,Salaries,Operating expense,313838.53,316200.0
+2025-06,Salaries,Operating expense,320646.4,317750.0
+2025-07,Salaries,Operating expense,320548.15,319300.0
+2025-08,Salaries,Operating expense,319660.39,320850.0
+2025-09,Salaries,Operating expense,324960.02,322400.0
+2025-10,Salaries,Operating expense,328301.18,323950.0
+2025-11,Salaries,Operating expense,320990.35,325500.0
+2025-12,Salaries,Operating expense,333624.99,327050.0
+2026-01,Salaries,Operating expense,330152.87,328600.0
+2026-02,Salaries,Operating expense,335499.58,330150.0
+2026-03,Salaries,Operating expense,336870.0,331700.0
+2026-04,Salaries,Operating expense,342763.12,333250.0
+2026-05,Salaries,Operating expense,338402.82,334800.0
+2026-06,Salaries,Operating expense,334205.6,336350.0
+2026-07,Salaries,Operating expense,338773.98,337900.0
+2026-08,Salaries,Operating expense,339755.52,339450.0
+2026-09,Salaries,Operating expense,344380.27,341000.0
+2026-10,Salaries,Operating expense,351814.51,342550.0
+2025-01,Marketing,Operating expense,253710.9,279000.0
+2025-02,Marketing,Operating expense,282373.4,281790.0
+2025-03,Marketing,Operating expense,303636.82,284580.0
+2025-04,Marketing,Operating expense,252124.63,287370.0
+2025-05,Marketing,Operating expense,306063.85,290160.0
+2025-06,Marketing,Operating expense,262966.23,292950.0
+2025-07,Marketing,Operating expense,277154.38,295740.0
+2025-08,Marketing,Operating expense,272377.48,298530.0
+2025-09,Marketing,Operating expense,263779.86,301320.0
+2025-10,Marketing,Operating expense,259936.11,304110.0
+2025-11,Marketing,Operating expense,314549.35,306900.0
+2025-12,Marketing,Operating expense,302587.39,309690.0
+2026-01,Marketing,Operating expense,302117.44,312480.0
+2026-02,Marketing,Operating expense,326413.14,315270.0
+2026-03,Marketing,Operating expense,314510.65,318060.0
+2026-04,Marketing,Operating expense,275869.83,320850.0
+2026-05,Marketing,Operating expense,304273.28,323640.0
+2026-06,Marketing,Operating expense,326380.81,326430.0
+2026-07,Marketing,Operating expense,349451.81,329220.0
+2026-08,Marketing,Operating expense,316088.37,332010.0
+2026-09,Marketing,Operating expense,335622.5,334800.0
+2026-10,Marketing,Operating expense,344773.96,337590.0
+2025-01,Technology,Operating expense,98436.41,95000.0
+2025-02,Technology,Operating expense,96006.24,95285.0
+2025-03,Technology,Operating expense,97861.48,95570.0
+2025-04,Technology,Operating expense,100157.9,95855.0
+2025-05,Technology,Operating expense,96722.33,96140.0
+2025-06,Technology,Operating expense,101457.17,96425.0
+2025-07,Technology,Operating expense,100936.23,96710.0
+2025-08,Technology,Operating expense,99192.62,96995.0
+2025-09,Technology,Operating expense,103130.83,97280.0
+2025-10,Technology,Operating expense,99112.51,97565.0
+2025-11,Technology,Operating expense,102829.89,97850.0
+2025-12,Technology,Operating expense,98555.45,98135.0
+2026-01,Technology,Operating expense,92222.83,98420.0
+2026-02,Technology,Operating expense,96035.97,98705.0
+2026-03,Technology,Operating expense,97226.7,98990.0
+2026-04,Technology,Operating expense,101548.95,99275.0
+2026-05,Technology,Operating expense,96248.63,99560.0
+2026-06,Technology,Operating expense,99388.68,99845.0
+2026-07,Technology,Operating expense,104021.1,100130.0
+2026-08,Technology,Operating expense,102687.49,100415.0
+2026-09,Technology,Operating expense,100944.31,100700.0
+2026-10,Technology,Operating expense,102667.08,100985.0
+2025-01,Rent,Operating expense,42000.0,42000.0
+2025-02,Rent,Operating expense,42000.0,42000.0
+2025-03,Rent,Operating expense,42000.0,42000.0
+2025-04,Rent,Operating expense,42000.0,42000.0
+2025-05,Rent,Operating expense,42000.0,42000.0
+2025-06,Rent,Operating expense,42000.0,42000.0
+2025-07,Rent,Operating expense,42000.0,42000.0
+2025-08,Rent,Operating expense,42000.0,42000.0
+2025-09,Rent,Operating expense,42000.0,42000.0
+2025-10,Rent,Operating expense,42000.0,42000.0
+2025-11,Rent,Operating expense,42000.0,42000.0
+2025-12,Rent,Operating expense,42000.0,42000.0
+2026-01,Rent,Operating expense,42000.0,42000.0
+2026-02,Rent,Operating expense,42000.0,42000.0
+2026-03,Rent,Operating expense,42000.0,42000.0
+2026-04,Rent,Operating expense,42000.0,42000.0
+2026-05,Rent,Operating expense,42000.0,42000.0
+2026-06,Rent,Operating expense,42000.0,42000.0
+2026-07,Rent,Operating expense,42000.0,42000.0
+2026-08,Rent,Operating expense,42000.0,42000.0
+2026-09,Rent,Operating expense,42000.0,42000.0
+2026-10,Rent,Operating expense,42000.0,42000.0
+2025-01,Professional fees,Operating expense,28247.37,38000.0
+2025-02,Professional fees,Operating expense,35187.0,38000.0
+2025-03,Professional fees,Operating expense,36784.2,38000.0
+2025-04,Professional fees,Operating expense,36547.27,38000.0
+2025-05,Professional fees,Operating expense,38544.21,38000.0
+2025-06,Professional fees,Operating expense,40783.87,38000.0
+2025-07,Professional fees,Operating expense,37057.52,38000.0
+2025-08,Professional fees,Operating expense,42361.15,38000.0
+2025-09,Professional fees,Operating expense,35773.72,38000.0
+2025-10,Professional fees,Operating expense,33367.23,38000.0
+2025-11,Professional fees,Operating expense,40281.73,38000.0
+2025-12,Professional fees,Operating expense,34448.66,38000.0
+2026-01,Professional fees,Operating expense,47099.28,38000.0
+2026-02,Professional fees,Operating expense,37042.82,38000.0
+2026-03,Professional fees,Operating expense,37491.91,38000.0
+2026-04,Professional fees,Operating expense,31243.37,38000.0
+2026-05,Professional fees,Operating expense,47639.02,38000.0
+2026-06,Professional fees,Operating expense,41618.9,38000.0
+2026-07,Professional fees,Operating expense,39494.34,38000.0
+2026-08,Professional fees,Operating expense,39472.16,38000.0
+2026-09,Professional fees,Operating expense,43100.96,38000.0
+2026-10,Professional fees,Operating expense,41585.53,38000.0
+2025-01,Depreciation,Operating expense,18000.0,18000.0
+2025-02,Depreciation,Operating expense,18120.0,18100.0
+2025-03,Depreciation,Operating expense,18240.0,18200.0
+2025-04,Depreciation,Operating expense,18360.0,18300.0
+2025-05,Depreciation,Operating expense,18480.0,18400.0
+2025-06,Depreciation,Operating expense,18600.0,18500.0
+2025-07,Depreciation,Operating expense,18720.0,18600.0
+2025-08,Depreciation,Operating expense,18840.0,18700.0
+2025-09,Depreciation,Operating expense,18960.0,18800.0
+2025-10,Depreciation,Operating expense,19080.0,18900.0
+2025-11,Depreciation,Operating expense,19200.0,19000.0
+2025-12,Depreciation,Operating expense,19320.0,19100.0
+2026-01,Depreciation,Operating expense,19440.0,19200.0
+2026-02,Depreciation,Operating expense,19560.0,19300.0
+2026-03,Depreciation,Operating expense,19680.0,19400.0
+2026-04,Depreciation,Operating expense,19800.0,19500.0
+2026-05,Depreciation,Operating expense,19920.0,19600.0
+2026-06,Depreciation,Operating expense,20040.0,19700.0
+2026-07,Depreciation,Operating expense,20160.0,19800.0
+2026-08,Depreciation,Operating expense,20280.0,19900.0
+2026-09,Depreciation,Operating expense,20400.0,20000.0
+2026-10,Depreciation,Operating expense,20520.0,20100.0
